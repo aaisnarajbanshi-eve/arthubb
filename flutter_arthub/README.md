@@ -1,4 +1,4 @@
-# flutter_arthub
+# arthub
 
 A new Flutter project.
 
